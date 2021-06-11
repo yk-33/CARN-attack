@@ -1,6 +1,6 @@
 # CARN-attack
 
-* 攻击入口文件：carn/model/attack.py
+* 攻击入口文件：carn/attack.py
 
 * 测试数据集存放位置：dataset/
 
